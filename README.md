@@ -3,3 +3,5 @@ I am a passionate full-stack developer based in Montreal, Canada. Nowadays, my f
 Open-source software is really important for me, so I try to give back to the community as much as I can by creating new packages, sharing the knowledge I have on my blog, submitting pull requests or reporting bugs.
 
 Feel free to visit [my blog](https://adrien.poupa.fr/) or see [my resume](https://resume.adrien.poupa.fr/).
+
+![AdrienPoupa's github stats](https://github-readme-stats.vercel.app/api?username=AdrienPoupa&show_icons=true)
